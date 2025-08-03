@@ -33,9 +33,7 @@ If the user chooses to exit, the program saves the remaining states to a CSV fil
 - `states_to_learn.csv` - Auto-generated list of states the user didn't guess (created on exit)
 
 ## 📦 Installation
-
-1. Clone the repo:
-
+Clone the repo:
 ```bash
 git clone https://github.com/Filip9205/StateGuessGame.git
 cd StateGuessGame
@@ -53,14 +51,6 @@ Edit
 python main.py
 📝 Make sure blank_states_img.gif and 50_states.csv are in the same folder as main.py.
 
-🧠 Learn & Practice
-This game is great for:
-
-Geography enthusiasts
-
-Students preparing for U.S. state quizzes
-
-Anyone who wants to have fun while learning!
 
 ✍️ Author
 Filip Matevski
