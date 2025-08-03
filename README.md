@@ -32,25 +32,6 @@ If the user chooses to exit, the program saves the remaining states to a CSV fil
 - `blank_states_img.gif` - Map background image used by the Turtle screen
 - `states_to_learn.csv` - Auto-generated list of states the user didn't guess (created on exit)
 
-## 📦 Installation
-Clone the repo:
-```bash
-git clone https://github.com/Filip9205/StateGuessGame.git
-cd StateGuessGame
-Install required libraries (if you don't have them already):
-
-bash
-Copy
-Edit
-pip install pandas
-Run the game:
-
-bash
-Copy
-Edit
-python main.py
-📝 Make sure blank_states_img.gif and 50_states.csv are in the same folder as main.py.
-
 
 ✍️ Author
 Filip Matevski
